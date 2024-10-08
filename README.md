@@ -1,2 +1,2 @@
 # hello-world
-his repository is for practicing the GitHub Flow.
+My name is David Ramirez and I'm going to start learning python.
